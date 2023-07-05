@@ -1,0 +1,4 @@
+version: "3"
+services:
+  # Configure PostgreSQL service with default values and explain each line with a comment
+  postgres:
